@@ -28,7 +28,7 @@ __Complete__
 
 __In Progress__  
 
-N/A
+[fast.ai]()course.fast.ai)
 
 __In Queue__  
 
