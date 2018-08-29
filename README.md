@@ -13,11 +13,12 @@ __Complete__
 __In Progress__  
 
 [Duke - Math Notation & DS Skills Course on Coursera](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
-[Stanford - CNN Course on Coursera](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+[Stanford - CNN Course on YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
 
 __In Queue__  
 
-N/A
+[Essence of Calculus Course on YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 
 --- 
 
@@ -25,7 +26,7 @@ N/A
 
 __Complete__
 
-[Data School - Pandas Course on Youtube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
+[Data School - Pandas Course on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
 
 
 __In Progress__  
@@ -34,7 +35,8 @@ N/A
 
 __In Queue__  
 
-[Stanford - NLPCourse on Coursera](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+[Data School - ML, ython, skitlearn Course on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
+[Stanford - NLPCourse on YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 
 
 
