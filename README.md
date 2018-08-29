@@ -64,8 +64,8 @@ __In Queue__
 
 ## Other Notes
 
-[Google Colab - Free GPU instances](https://colab.research.google.com/)
-[Arxiv - Academic Papers](https://arxiv.org/list/cs.AI/recent)
+[Google Colab - Free GPU instances](https://colab.research.google.com/)  
+[Arxiv - Academic Papers](https://arxiv.org/list/cs.AI/recent)  
 
 [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 
