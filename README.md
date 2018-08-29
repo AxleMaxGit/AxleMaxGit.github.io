@@ -54,6 +54,11 @@ __In Queue__
 
 [Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome)  
 
+---
+## Books
+
+[Free O'Rieley ebooks](https://www.oreilly.com/data/free/)
+[Free SyncFusion ebooks](https://www.syncfusion.com/ebooks/)
 
 ---
 
