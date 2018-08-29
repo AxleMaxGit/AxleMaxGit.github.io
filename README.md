@@ -7,17 +7,17 @@
 
 __Complete__
 
-[Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)  
-[Stanford - Probabilistic Graphical Models on Coursera](https://www.coursera.org/learn/probabilistic-graphical-models/lecture/xUr0h/overview-and-motivation)  
+[Probability Course on Coursera by Uni Zurich](https://www.coursera.org/learn/introductiontoprobability)  
+[Probabilistic Graphical Models on Coursera by Stanford](https://www.coursera.org/learn/probabilistic-graphical-models/lecture/xUr0h/overview-and-motivation)  
 
 __In Progress__  
 
-[Duke - Math Notation & DS Skills Course on Coursera](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
-[Stanford - CNN Course on YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
+[Math Notation & DS Skills Course on Coursera by Duke](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
+[CNN Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
 
 __In Queue__  
 
-[Essence of Calculus Course on YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+[Essence of Calculus Course on YouTube by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 
 --- 
@@ -26,7 +26,7 @@ __In Queue__
 
 __Complete__
 
-[Data School - Pandas Course on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
+[Pandas Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
 
 
 __In Progress__  
@@ -35,10 +35,8 @@ N/A
 
 __In Queue__  
 
-[Data School - ML, ython, skitlearn Course on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
-[Stanford - NLPCourse on YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
-
-
+[ML, ython, skitlearn Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
+[NLP Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 
 ---  
 
@@ -54,7 +52,7 @@ N/A
 
 __In Queue__  
 
-[Matlab Course on Coursera](https://www.coursera.org/learn/matlab/home/welcome)  
+[Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome)  
 
 
 ---
