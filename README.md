@@ -57,7 +57,7 @@ __In Queue__
 ---
 ## Books
 
-[Free O'Rieley ebooks](https://www.oreilly.com/data/free/)  
+[Free O'Reilly ebooks](https://www.oreilly.com/data/free/)  
 [Free SyncFusion ebooks](https://www.syncfusion.com/ebooks/)  
 
 ---
