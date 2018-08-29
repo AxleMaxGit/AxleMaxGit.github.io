@@ -1,7 +1,7 @@
 ### Welcome to Axle Max's GitHub Page
 
 
-##Math Study
+## Math Study
 
 (Complete)
 
