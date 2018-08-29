@@ -1,6 +1,3 @@
-### Welcome to Axle Max's GitHub Page
-
-
 ## Math Study
 
 ---
