@@ -1,7 +1,7 @@
 ## Welcome to Axle Ma's GitHub Page
 
 
-[Probability COurse on Coursera](https://www.coursera.org/learn/introductiontoprobability)
+[Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)
 
 
 
