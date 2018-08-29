@@ -55,4 +55,6 @@ __In Queue__
 
 ---
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
+## Other Notes
+
+[GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
