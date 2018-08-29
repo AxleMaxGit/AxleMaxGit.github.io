@@ -68,4 +68,4 @@ __In Queue__
 [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 
 ---
-![](/AIML_Funny.jpeg)
+![](/img/AIML_Funny.jpeg)
