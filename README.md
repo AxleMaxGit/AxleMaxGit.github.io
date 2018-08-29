@@ -3,6 +3,8 @@
 
 ## Math Study
 
+---
+
 __Complete__
 
 [Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)  
