@@ -3,10 +3,8 @@
 
 ## Math Study
 
-(Complete)
+__Complete__
 
-[Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)  
-[Data School - Pandas Course on Youtube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
 [Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)  
 [Stanford - Probabilistic Graphical Models on Coursera](https://www.coursera.org/learn/probabilistic-graphical-models/lecture/xUr0h/overview-and-motivation)  
 
@@ -17,10 +15,23 @@
 
 (In Queue)
 
-[Matlab Course on Coursera](https://www.coursera.org/learn/matlab/home/welcome)  
+
+--- 
+
+## AI / ML / DS Study
+
+__Complete__
+
+[Data School - Pandas Course on Youtube](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
 [Stanford - NLPCourse on Coursera](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 
-
 ---  
+
+## Coding Study
+
+[Matlab Course on Coursera](https://www.coursera.org/learn/matlab/home/welcome)  
+
+
+---
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
