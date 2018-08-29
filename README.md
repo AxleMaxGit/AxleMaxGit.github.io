@@ -15,7 +15,7 @@
 [Duke - Math Notation & DS Skills Course on Coursera](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
 [Stanford - CNN Course on Coursera](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
 
-(In Queue
+(In Queue)
 
 [Matlab Course on Coursera](https://www.coursera.org/learn/matlab/home/welcome)  
 [Stanford - NLPCourse on Coursera](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
@@ -23,6 +23,4 @@
 
 ---  
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
