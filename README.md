@@ -1,4 +1,4 @@
-## Welcome to Axle Ma's GitHub Page
+## Welcome to Axle Max's GitHub Page
 
 
 [Probability Course on Coursera](https://www.coursera.org/learn/introductiontoprobability)
