@@ -2,7 +2,9 @@
 
 ## Math Study
 
-[Test](pages/math.md)
+[My notes on math notation](pages/math.md)
+
+Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence. These are notes I am making as I learn.
 
 ---
 
