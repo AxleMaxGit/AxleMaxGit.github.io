@@ -55,6 +55,12 @@ __In Queue__
 [R for Data Science - Online HTML Version](http://r4ds.had.co.nz/)
 
 ---
+## Cool Sites & Resources
+
+[Math is fun](https://www.mathsisfun.com)
+
+
+---
 ## Books
 
 [Free O'Reilly ebooks](https://www.oreilly.com/data/free/)  
