@@ -8,10 +8,19 @@ A = ∅   (set A is empty)
 
 |∅| = 0   (the cardinality of the empty set is 0)
 
-A ∩ B     (the intersection of set A and set B)
+vertical bar can also = absolute value = the distance a number is from zero. 
+
+|-1| = 1 while |3.1| = 3.1. A definition of the set of real numbers between -1 and 1 = B = {x : |x| < 1 ^ x is a real number}
+
+A ∩ B     (the intersection of set A and set B) (can also be noted by "circumflex agent" which looks like a "caret" ^)
 
 A ∩ B = {X: X ∈ A AND X ∈ B}  (satisfies or meets conditions or "such that") 
 (X is in the intersection of sets A & B if X is an element of A and X is an element of B)
+
+: or | (colon or pipe means 'such that')
+
+f:x↦y means f is a function that takes the value x to the value y. (Think of a function as an operation that takes 
+objects from one set and maps them to another set)
 
 A ∪ B     (the union of set A or set B) (all the elements in set A or B or both)
 
