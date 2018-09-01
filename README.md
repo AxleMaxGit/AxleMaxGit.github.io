@@ -2,6 +2,8 @@
 
 ## Math Study
 
+[Test](/test)
+
 ---
 
 __Complete__
