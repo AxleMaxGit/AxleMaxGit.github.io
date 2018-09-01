@@ -2,7 +2,7 @@
 
 ## Math Study
 
-Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence. These are notes I am making [These are notes I am making](pages/math.md) as I learn.
+Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence. [These are notes I am making](pages/math.md) as I learn.
 
 ---
 
