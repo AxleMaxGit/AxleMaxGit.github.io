@@ -1,6 +1,8 @@
-# Test
+# Axle Max's Github Home Page
 
 ## Math Study
+
+[Test](test.md)
 
 ---
 
@@ -53,6 +55,12 @@ __In Queue__
 
 [Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome)  
 [R for Data Science - Online HTML Version](http://r4ds.had.co.nz/)
+
+---
+## Cool Sites & Resources
+
+[Math is fun](https://www.mathsisfun.com)
+
 
 ---
 ## Books
