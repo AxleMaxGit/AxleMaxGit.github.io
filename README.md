@@ -2,7 +2,7 @@
 
 ## Math Study
 
-[Test](/test)
+[Test](test.md)
 
 ---
 
