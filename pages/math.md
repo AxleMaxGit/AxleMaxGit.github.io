@@ -41,13 +41,19 @@ A ∪ B  = {X: X ∈ A  OR X ∈ B}
 
 𝜇 ("mu" represents the mean value)
 
+m Slope is often denoted by the letter m (m stands for multiple? e.g. Y is a multiple of x)
+
+A popular form of a straight line is y= mx + c (this is called the slope-intercept form). Here c which is the intercept because when x = 0, y = c. m is the gradient because it makes y a multiple of x.
+
+The slope "m" of the line is m (slope) = y subscript 2 - y subscript 1 (the change in y, aka delta y of dy) divided by x subscript 2 - x subscript 1 (the change/delta in x, aka delta x or dx)
+
+If the slope m of a line and a point (x1,y1) on the line are both known, then the equation of the line can be found using the point-slope formula: y - y subscript 1 = m (x - x subscript 1)
+
 Variance describes how "spread out" elements of a set are. The mean (𝜇) = E(x), [i.e. the mean is the "expected value" of X]. 
 
 Variance is the average difference between X**2 and the mean. 
 
 Variation (σ) [aka Sigma] is calculated:
-
-
 
 (Variation [sigma squared] = the mean of … the sum of the distances between x and the mean of the set … squared)
 
