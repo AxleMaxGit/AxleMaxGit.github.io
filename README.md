@@ -36,7 +36,7 @@ __In Progress__
 
 __In Queue__  
 
-[Harvard Intro to Data Science using R course 7 book](https://rafalab.github.io/dsbook/)
+[Harvard Intro to Data Science using R course 7 book](https://rafalab.github.io/dsbook/)  
 [ML, ython, skitlearn Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
 [NLP Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 
