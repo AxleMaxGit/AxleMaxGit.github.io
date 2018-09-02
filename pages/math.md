@@ -49,6 +49,8 @@ The slope "m" of the line is m (slope) = y subscript 2 - y subscript 1 (the chan
 
 If the slope m of a line and a point (x1,y1) on the line are both known, then the equation of the line can be found using the point-slope formula: y - y subscript 1 = m (x - x subscript 1)
 
+α = the learning rate (in gradient descent)
+
 Variance describes how "spread out" elements of a set are. The mean (𝜇) = E(x), [i.e. the mean is the "expected value" of X]. 
 
 Variance is the average difference between X**2 and the mean. 
