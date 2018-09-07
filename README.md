@@ -67,6 +67,7 @@ __In Queue__
 ## Cool Sites & Resources
 
 [Math is fun](https://www.mathsisfun.com)
+[Deep Learning Cheat Sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
 
 
 ---
