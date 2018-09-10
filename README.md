@@ -55,7 +55,7 @@ __Courses__
 
 __References__  
 
-N/A
+[Linguistic glossary](https://www.uni-due.de/ELE/LinguisticGlossary.html)
 
 __Libraries__
 
