@@ -41,11 +41,25 @@ __In Progress__
 
 __In Queue__  
 
-[RASP NLP Library](http://users.sussex.ac.uk/~johnca/rasp/)
 [Reproducible Data Analysis by Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)  
 [Harvard Intro to Data Science using R course & book](https://rafalab.github.io/dsbook/)  
 [ML, ython, skitlearn Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
+
+---
+
+## NLP Stuff  
+
+__Courses__
+
 [NLP Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+
+__References__  
+
+N/A
+
+__Libraries__
+
+[RASP NLP Library](http://users.sussex.ac.uk/~johnca/rasp/)
 
 ---  
 
