@@ -96,7 +96,8 @@ __In Queue__
 ## Other Notes
 
 [Google Colab - Free GPU instances](https://colab.research.google.com/)  
-[Arxiv - Academic Papers](https://arxiv.org/list/cs.AI/recent)  
+[Arxiv - Academic Papers](https://arxiv.org/list/cs.AI/recent)    
+[Append item to tuple](https://stackoverflow.com/questions/16730339/python-add-item-to-the-tuple)  
 
 [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 
