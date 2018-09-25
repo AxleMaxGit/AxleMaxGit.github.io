@@ -84,6 +84,7 @@ __In Queue__
 [Math is fun](https://www.mathsisfun.com)   
 [Deep Learning Cheat Sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)   
 [Excellent explanation of Precision & Recall](https://www.youtube.com/watch?v=o9A4e7zopu8)  
+[Learn XYZ fast](https://learnxinyminutes.com/docs/python3/)
 
 ---
 ## Books
