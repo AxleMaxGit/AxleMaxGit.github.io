@@ -1,4 +1,4 @@
-##### Processing JSON
+### Processing JSON
 
 sample_dict = { "office": 
     {"medical": [
@@ -33,16 +33,16 @@ json_string = json.dumps(datastore)
 #The JSON module can also take a JSON string and convert it back to a dictionary structure:
 datastore = json.loads(json_string)
 
-##### read from file
+### Read from file
 from pprint import pprint
 
-with open('filename.json') as f:
-    data = json.load(f)
+with open('filename.json') as f:  
+&nbsp;&nbsp;&nbsp;&nbsp; data = json.load(f)
 
 pprint(data)
 print(data["attribute"])
 
-##### Writing JSON data
-with open(filename.json, 'w') as f:
-    json.dump(data, f)
+### Writing JSON data
+with open(filename.json, 'w') as f:  
+&nbsp;&nbsp;&nbsp;&nbsp; json.dump(data, f)
    
