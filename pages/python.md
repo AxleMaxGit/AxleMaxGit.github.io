@@ -46,3 +46,4 @@ print(data["attribute"])
 with open(filename.json, 'w') as f:  
 &nbsp;&nbsp;&nbsp;&nbsp; json.dump(data, f)
    
+[Also see speeded-up package ujson](https://pypi.python.org/pypi/ujson)
