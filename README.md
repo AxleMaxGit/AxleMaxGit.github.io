@@ -5,9 +5,8 @@
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
 
 [These are math notes I am making](pages/math.md) as I learn.   
-[These are Pandas notes I am making](pages/pandas.md) as I learn.  
-
-
+[These are Pandas notes I am making](pages/pandas.md) as I learn.   
+[These are Python notes I am making](pages/python.md) as I learn
 
 ---
 
@@ -32,11 +31,13 @@ __In Queue__
 
 __Complete__
 
-[Pandas Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)  
+[Pandas Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)   
+[Computer Vision - SIFT Explained](http://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)
 
 
 __In Progress__  
 
+[Neural Networks Introduction on YouTube by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 [fast.ai](course.fast.ai)
 
 __In Queue__  
@@ -67,20 +68,20 @@ __Libraries__
 
 __Complete__
 
-N/A
+[Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome) 
 
 __In Progress__  
 
-N/A
+[Intermediate Python - Django - Flask Projects](https://www.udemy.com/projects-in-python-for-intermediate-build-python-projects/learn/v4/overview)
 
 __In Queue__  
-
-[Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome)  
+ 
 [R for Data Science - Online HTML Version](http://r4ds.had.co.nz/)
 
 ---
 ## Cool Sites & Resources
 
+[JSON Viewer](http://jsonviewer.stack.hu/)  
 [Math is fun](https://www.mathsisfun.com)   
 [Deep Learning Cheat Sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)   
 [Excellent explanation of Precision & Recall](https://www.youtube.com/watch?v=o9A4e7zopu8)  
