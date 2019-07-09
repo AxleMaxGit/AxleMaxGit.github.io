@@ -70,7 +70,7 @@ Tilde "~" means "has a probability distribution of". Picking from 2 boxes… P(A
 ---
 ## Cool Sites & Resources
 
-[Math is fun](https://www.mathsisfun.com)
+[Math is fun](https://www.mathsisfun.com)  
 See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simple & clever
 
 
