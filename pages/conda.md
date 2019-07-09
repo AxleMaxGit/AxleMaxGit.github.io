@@ -3,22 +3,30 @@
 
 #list available virtual environments   
   
-conda env list
+conda env list  
+---
 
 #actiate a conda virtual environment to allow specific versions of python/jupyter/etc   
   
 conda activate py3-env
+  
+---
 
 #to create a new env see [conda cheatheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
   
+---
 
 #Check the current version of Python   
   
 python --version
+  
+---
 
 #update Python version  
   
 conda update python
+  
+---
 
 #update all packages  
   
