@@ -34,7 +34,7 @@ __Complete__
 
 [Pandas Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)   
 [Computer Vision - SIFT Explained](http://aishack.in/tutorials/sift-scale-invariant-feature-transform-log-approximation/)
-
+[ML, Python, skitlearn Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
 
 __In Progress__  
 
@@ -45,7 +45,7 @@ __In Queue__
 
 [Reproducible Data Analysis by Jake Vanderplas](https://www.youtube.com/playlist?list=PLYCpMb24GpOC704uO9svUrihl-HY1tTJJ)  
 [Harvard Intro to Data Science using R course & book](https://rafalab.github.io/dsbook/)  
-[ML, Python, skitlearn Course on YouTube by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)  
+
 
 ---
 
