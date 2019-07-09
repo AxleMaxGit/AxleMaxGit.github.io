@@ -60,6 +60,8 @@ conda install ipykernel
 ###### list kernels...  
   
 jupyter kernelspec list  
+
+---
   
 ###### delete kernels...   
 jupyter kernelspec uninstall kernel-name
