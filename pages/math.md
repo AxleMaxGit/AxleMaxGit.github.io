@@ -1,3 +1,10 @@
+## Cool Sites & Resources
+
+[Math is fun](https://www.mathsisfun.com)  
+See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simple & clever
+
+---  
+
 # Axle Max's Math Notes Page
 
 2 ∈ A   (two is an element of set A)
@@ -68,9 +75,6 @@ Standard deviation =
 Tilde "~" means "has a probability distribution of". Picking from 2 boxes… P(A) = P(~A) = 1/2. (The probability of A occurring equals the probability distribution of A equals one of two)
 
 ---
-## Cool Sites & Resources
 
-[Math is fun](https://www.mathsisfun.com)  
-See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simple & clever
 
 
