@@ -3,7 +3,8 @@
 
 #list available virtual environments   
   
-conda env list  
+conda env list
+
 ---
 
 #actiate a conda virtual environment to allow specific versions of python/jupyter/etc   
@@ -31,6 +32,14 @@ conda update python
 #update all packages  
   
 conda update --all
+  
+---
+
+#list installed packages   
+  
+conda list
+
+---
 
 #(re)install jupyter    
   
