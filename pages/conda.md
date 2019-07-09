@@ -68,4 +68,6 @@ jupyter kernelspec uninstall kernel-name
   
 ---  
 ###### add new kernel...   
-python -m ipykernel install --user --name kernel-name --display-name "Python (kernel-name)"
+python -m ipykernel install --user --name kernel-name --display-name "Python (kernel-name)"  
+
+.
