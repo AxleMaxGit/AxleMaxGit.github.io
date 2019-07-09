@@ -9,6 +9,7 @@ Math notation is IMHO one of the biggest barriers to learning Artificial Intelli
 [These are Python notes I am making](pages/python.md) as I learn
 [Instructions for how to set up virtual environments using Conda](pages/conda.md)
 
+
 ---
 
 __Complete__
