@@ -9,7 +9,7 @@ conda env list
 
 ###### actiate a conda virtual environment to allow specific versions of python/jupyter/etc   
   
-conda activate *<my-env>*
+conda activate *\<my-env\>*
   
 ---
 
