@@ -46,14 +46,21 @@ conda update --all
 #(re)install jupyter    
   
 conda install jupyter
+  
+---
 
 #(re)install ipykernel (let's you create & edit kernels) 
   
 conda install ipykernel
+  
+---
 
 #to manage jupyter kernels  
-#list kernels...   
-jupyter kernelspec list
+
+#list kernels...  
+  
+jupyter kernelspec list  
+  
 #delete kernels...   
 jupyter kernelspec uninstall kernel-name
 #add new kernel...   
