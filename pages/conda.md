@@ -13,7 +13,9 @@ conda activate py3-env
   
 ---
 
-#to create a new env see [conda cheatheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
+#to create a new env see...  
+  
+[conda cheatheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
   
 ---
 
@@ -29,16 +31,16 @@ conda update python
   
 ---
 
-#update all packages  
-  
-conda update --all
-  
----
-
 #list installed packages   
   
 conda list
 
+---  
+
+#update all packages  
+  
+conda update --all
+  
 ---
 
 #(re)install jupyter    
