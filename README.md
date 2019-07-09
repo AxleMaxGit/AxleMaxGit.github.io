@@ -4,9 +4,9 @@
 
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
 
-[These are math notes I am making](pages/math.md) as I learn.   
-[These are Pandas notes I am making](pages/pandas.md) as I learn.   
-[These are Python notes I am making](pages/python.md) as I learn.  
+These are [math notes](pages/math.md) I am making as I learn.   
+These are [Pandas notes](pages/pandas.md) I am making as I learn.   
+These are [Python notes](pages/python.md) I am making as I learn.  
 Instructions for how to [set up virtual environments](pages/conda.md) using Conda
 
 ---
