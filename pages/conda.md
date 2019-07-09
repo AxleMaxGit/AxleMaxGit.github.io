@@ -1,67 +1,69 @@
 
-### Conda Cheatsheet  
+## Conda Cheatsheet  
 
-#list available virtual environments   
+###### list available virtual environments   
   
 conda env list
 
 ---
 
-#actiate a conda virtual environment to allow specific versions of python/jupyter/etc   
+###### actiate a conda virtual environment to allow specific versions of python/jupyter/etc   
   
-conda activate py3-env
+conda activate *my-env*
   
 ---
 
-#to create a new env see...  
+###### to create a new env see...  
   
 [conda cheatheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)
   
 ---
 
-#Check the current version of Python   
+###### Check the current version of Python   
   
-python --version
+python \-\-version
   
 ---
 
-#update Python version  
+###### update Python version  
   
 conda update python
   
 ---
 
-#list installed packages   
+###### list installed packages   
   
 conda list
 
 ---  
 
-#update all packages  
+###### update all packages  
   
-conda update --all
+conda update \-\-all
   
 ---
 
-#(re)install jupyter    
+###### (re)install jupyter    
   
 conda install jupyter
   
 ---
 
-#(re)install ipykernel (let's you create & edit kernels) 
+###### (re)install ipykernel (let's you create & edit kernels) 
   
 conda install ipykernel
   
 ---
 
-#to manage jupyter kernels  
+#### to manage jupyter kernels  
 
-#list kernels...  
+###### list kernels...  
   
 jupyter kernelspec list  
   
-#delete kernels...   
+###### delete kernels...   
 jupyter kernelspec uninstall kernel-name
-#add new kernel...   
+  
+---  
+###### add new kernel...   
 python -m ipykernel install --user --name kernel-name --display-name "Python (kernel-name)"
