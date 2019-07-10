@@ -6,12 +6,10 @@
 </p>
 -------
 
-![test](img/math.png)
 
-
-
-
-
+[![math](img/math.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/math.md)
+[![code](img/code.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/code.md)
+[![ml](img/ml.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/ml.md)
 
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
 
