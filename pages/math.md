@@ -4,9 +4,10 @@
 ### Cool Sites & Resources
 
 [Math is fun](https://www.mathsisfun.com)  
-[Visual matrix multiplication ](http://matrixmultiplication.xyz/)
+[Visual matrix multiplication ](http://matrixmultiplication.xyz/)  
 
-#### Math Notation Cheatsheet
+
+### Math Notation Cheatsheet
 
 2 ∈ A   (two is an element of set A)
 
