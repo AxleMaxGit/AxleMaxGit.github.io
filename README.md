@@ -1,5 +1,6 @@
 [![Twitter: @thealexfreeman](https://img.shields.io/badge/contact-@thealexfreeman_on_Twitter-9cf.svg?style=?style=popout-square)](https://twitter.com/thealexfreeman)
-[![LinkedIn: @thealexfreeman](https://img.shields.io/badge/contact-thealexfreeman_on_LinkedIn-blue.svg?style=?style=popout-square)](https://www.linkedin.com/in/thealexfreeman/)
+[![LinkedIn: @thealexfreeman](https://img.shields.io/badge/contact-thealexfreeman_on_LinkedIn-blue.svg?style=?style=popout-square)](https://www.linkedin.com/in/thealexfreeman/)  
+
 -------  
 
 <p align="center">
@@ -10,11 +11,15 @@
 
 ------- 
 
-<div style="text-align: center";>
-    <a href="https://axlemaxgit.github.io/pages/math.html"><img src="img/math.png" align="center"></a>
-    <a href="https://axlemaxgit.github.io/pages/python.html"><img src="img/code.png" align="center"></a>
-    <a href="https://axlemaxgit.github.io/pages/ml.html"><img src="img/ml.png" align="center"></a>
+<div class="centred">
+    <a href="https://axlemaxgit.github.io/pages/math.html"><img src="img/math.png" ></a>
+    <a href="https://axlemaxgit.github.io/pages/python.html"><img src="img/code.png" ></a>
+    <a href="https://axlemaxgit.github.io/pages/ml.html"><img src="img/ml.png" ></a>
 </div>
+
+<div class="centred">
+    <p>Test</p>
+</div>  
 
 ---  
 
