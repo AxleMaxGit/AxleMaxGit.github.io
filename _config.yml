@@ -3,6 +3,6 @@ title: Axle Max's Github Home Page
 description: Where Axle Max keeps his AI links & notes
 ---
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-leap-day
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
