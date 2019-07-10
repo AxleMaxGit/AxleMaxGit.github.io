@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal"; 
+@import "{{ site.theme }}";
 
 body {
   background-image: url("wormz.png");
