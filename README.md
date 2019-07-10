@@ -6,9 +6,10 @@
 </p>
 -------
 
+![test](img/math.png)
 
 
-[[[/images/gravatar.jpeg|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
+
 
 
 
