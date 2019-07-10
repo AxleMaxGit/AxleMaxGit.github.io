@@ -1,12 +1,12 @@
 [Cool Sites & Resources](#Cool-Sites-&-Resources)  
 [Math Notation Cheatsheet](#Math-Notation-Cheatsheet)  
 
-## Cool Sites & Resources
+### Cool Sites & Resources
 
 [Math is fun](https://www.mathsisfun.com)  
 [Visual matrix multiplication ](http://matrixmultiplication.xyz/)
 
-## Math Notation Cheatsheet
+#### Math Notation Cheatsheet
 
 2 ∈ A   (two is an element of set A)
 
