@@ -1,3 +1,5 @@
+[Test Link](#the-header)
+
 ## Cool Sites & Resources
 
 [Math is fun](https://www.mathsisfun.com)  
@@ -76,5 +78,6 @@ Tilde "~" means "has a probability distribution of". Picking from 2 boxes… P(A
 
 ---
 
+## the header
 
 
