@@ -1,4 +1,10 @@
-## Math Study
+-------
+<p align="center">
+    <a href="pages/math.md">Math</a> &bull;
+    <a href="pages/python.md">Coding</a> &bull;
+    <a href="pages/python.md">ML & AI</a> 
+</p>
+-------
 
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
 
