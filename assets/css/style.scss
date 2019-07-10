@@ -17,8 +17,9 @@ body {
   }
   
 hr {
-    height: 4px;
-    color: black;
+  border: 0;
+  height: 1px;
+  border-top: 1px solid black
 }
 
   #page {
