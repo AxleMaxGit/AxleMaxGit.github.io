@@ -4,7 +4,7 @@
 ## Cool Sites & Resources
 
 [Math is fun](https://www.mathsisfun.com)  
-See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simple & clever
+[Visual matrix multiplication ](http://matrixmultiplication.xyz/)
 
 ## Math Notation Cheatsheet
 
