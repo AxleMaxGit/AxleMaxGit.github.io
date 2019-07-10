@@ -1,5 +1,3 @@
-# Axle Max's Github Home Page
-
 ## Math Study
 
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
