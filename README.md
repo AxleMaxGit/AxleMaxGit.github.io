@@ -10,14 +10,10 @@
 
 ------- 
 
-<div style="text-align: center">
-
-   <a href="https://axlemaxgit.github.io/pages/math.html"><img src="https://axlemaxgit.github.io/img/math.png" title="Link To Math Page" alt="Link To Math Page"></a>
-    
-   <a href="https://axlemaxgit.github.io/pages/math.html"><img src="https://axlemaxgit.github.io/img/math.png" title="Link To Math Page" alt="Link To Math Page"></a>
-    
-   <a href="https://axlemaxgit.github.io/pages/math.html"><img src="https://axlemaxgit.github.io/img/math.png" title="Link To Math Page" alt="Link To Math Page"></a>
-
+<div style="text-align: center";>
+    <a href="https://axlemaxgit.github.io/pages/math.html"><img src="img/math.png" align="center"></a>
+    <a href="https://axlemaxgit.github.io/pages/python.html"><img src="img/code.png" align="center"></a>
+    <a href="https://axlemaxgit.github.io/pages/ml.html"><img src="img/ml.png" align="center"></a>
 </div>
 
 ---  
