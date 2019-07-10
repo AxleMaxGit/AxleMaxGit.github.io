@@ -6,15 +6,9 @@
 </p>
 -------
 
-<h3 align="center">
-    [[[/images/gravatar.jpeg|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
-    [[[img/math.png]]](https://axlemaxgit.github.io/pages/math.html)
-
-  <img src="img/code.png" alt="Marvel Screens" />
-  <img src="img/ml.png" alt="Marvel Screens" />
-</h3>
 
 
+[[[/images/gravatar.jpeg|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
 
 
 
