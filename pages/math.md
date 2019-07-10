@@ -1,4 +1,4 @@
-[Test Link](#the-header)
+[Math Notation Cheatsheet](#Math-Notation-Cheatsheet)
 
 ## Cool Sites & Resources
 
@@ -7,7 +7,7 @@ See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simpl
 
 ---  
 
-# Axle Max's Math Notes Page
+## Math Notation Cheatsheet
 
 2 ∈ A   (two is an element of set A)
 
