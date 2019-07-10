@@ -6,8 +6,6 @@
 [Math is fun](https://www.mathsisfun.com)  
 See [matrix multiplication visually](http://matrixmultiplication.xyz/). So simple & clever
 
----  
-
 ## Math Notation Cheatsheet
 
 2 ∈ A   (two is an element of set A)
@@ -79,6 +77,5 @@ Tilde "~" means "has a probability distribution of". Picking from 2 boxes… P(A
 
 ---
 
-## the header
 
 
