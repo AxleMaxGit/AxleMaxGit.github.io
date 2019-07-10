@@ -1,9 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
-
 ## Conda Cheatsheet  
 
 ###### list available virtual environments   
