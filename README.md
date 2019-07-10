@@ -9,9 +9,12 @@
 -------  
 
 
-[![math](img/math.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/math.md)
-[![code](img/code.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/code.md)
-[![ml](img/ml.png)](https://github.com/AxleMaxGit/AxleMaxGit.github.io/blob/master/pages/ml.md)
+[![math](img/math.png)](https://axlemaxgit.github.io/pages/math.html)
+[![code](img/code.png)](https://axlemaxgit.github.io/pages/python.html)
+[![ml](img/ml.png)](https://axlemaxgit.github.io/pages/ml.html)  
+
+---  
+
 
 
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
