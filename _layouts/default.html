@@ -14,8 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
+        <!-- Link to homepage -->
         <h3><a href="{{ "/" | absolute_url }}">Learning Home</a></h3>
         
+        <!-- Comment out some guff from template -->
+        <!--
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -35,6 +40,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        -->
       </header>
       <section>
 
