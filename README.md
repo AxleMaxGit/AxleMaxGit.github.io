@@ -6,6 +6,19 @@
 </p>
 -------
 
+<h3 align="center">
+    [[[/images/gravatar.jpeg|width=50px]]](http://www.inf.ufrgs.br/~gozardo)
+    [[[/images/gravatar.jpeg|width=50px]]](https://axlemaxgit.github.io/pages/math.html)
+
+  [<img src="img/math.png">](https://axlemaxgit.github.io/pages/math.html)
+  <img src="img/code.png" alt="Marvel Screens" />
+  <img src="img/ml.png" alt="Marvel Screens" />
+</h3>
+
+
+
+
+
 Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
 
 These are [math notes](pages/math.md) I am making as I learn.   
