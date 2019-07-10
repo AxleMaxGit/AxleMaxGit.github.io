@@ -1,3 +1,4 @@
+[Cool Sites & Resources](#Cool-Sites-&-Resources)
 [Math Notation Cheatsheet](#Math-Notation-Cheatsheet)
 
 ## Cool Sites & Resources
