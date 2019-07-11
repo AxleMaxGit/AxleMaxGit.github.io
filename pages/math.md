@@ -5,17 +5,28 @@
 
 ## Study Plan
 
+
+Statistics | Probability | Calculus
+--- | --- | ---
+Basics:   <ul><li>~~Mean, Median, Mode~~</li><li>standard deviations</li><li>variance</li><li>coefficient of variation</li><li>percentiles, z-score</li><li>moments: skewness, kurtosis, L-moments</li></ul>| Basics: <ul><li>Dependent vs independent</li><li>Joint Probability</li><li>Marginal Probability</li><li>Conditional Probability</li><li>Central Limit Theorem</li><li>Bayes Theorem</li></ul> | Basics: <ul><li>Differential (rate of change at a time)</li><li>Integral (time given rate of change)</li><li>Maxima / Minima</li></ul>
+Applied: <ul><li>Hypothesis Testing</li><li>Confidence Intervals</li><li>Linear Regression</li><li>Logistic Regression</li><li>F Distribution</li><li>ANOVA</li><li>Inference</li></ul>| <ul><li>Discrete Random Variables</li><ul><li>Probability Distribution Functions</li><li>Expected Value</li><li>Binomial Distribution</li><li>Geometric Distribution</li><li>Poisson Distribution</li></ul><li>Continuous Random Variables</li><ul><li>Uniform Distribution</li><li>Exponential Distribution</li></ul></ul> | Other: <ul><li>[Miltivariate calculus](https://is.gd/sXEvEI)</li></ul>
+Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li>(https://is.gd/QFu9Fl)</li></ul>  | <ul><li>[Good Stats Outline](https://courses.lumenlearning.com/introstats1/table-of-contents/)</li><li>[Intro to Probability Book](http://athenasc.com/probcontents.html)</li><li>[Intro to Linear Optimisation Book](http://athenasc.com/linoptcontents.html)</li></ul> | ---
+
+
+
+
 #### In Progress  
 
-[Math Notation & DS Skills Course on Coursera by Duke](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
-[CNN Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)    
+N/A  
 
 #### In Queue  
 
+[CNN Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)    
 [Essence of Calculus Course on YouTube by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)  
 
 #### Complete  
 
+[Math Notation & DS Skills Course on Coursera by Duke](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
 [Probability Course on Coursera by Uni Zurich](https://www.coursera.org/learn/introductiontoprobability)  
 [Probabilistic Graphical Models on Coursera by Stanford](https://www.coursera.org/learn/probabilistic-graphical-models/lecture/xUr0h/overview-and-motivation)  
 
@@ -24,9 +35,12 @@
 
 ### Cool Sites & Resources
 
-[Math is fun](https://www.mathsisfun.com)  
+[Math is fun](https://www.mathsisfun.com
+
 [Visual matrix multiplication ](http://matrixmultiplication.xyz/)  
 
+
+---
 
 ### Math Notation Cheatsheet
 
