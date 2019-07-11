@@ -1,9 +1,6 @@
-#remote_theme: andrewbanchich/forty-jekyll-theme
-
 --- 
 title: Axle Max Study Notes
 description: A page for collecting knowledge
 ---
-
 
 theme: jekyll-theme-minimal
