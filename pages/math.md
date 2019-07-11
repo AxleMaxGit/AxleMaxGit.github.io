@@ -2,7 +2,7 @@
 [Cool Sites & Resources](#Cool-Sites-&-Resources)  
 [Math Notation Cheatsheet](#Math-Notation-Cheatsheet)  
 
-
+---
 
 ## Study Plan
 
@@ -14,7 +14,7 @@ Applied: <ul><li>Hypothesis Testing</li><li>Confidence Intervals</li><li>Linear 
 Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li>(https://is.gd/QFu9Fl)</li></ul>  | <ul><li>[Good Stats Outline](https://courses.lumenlearning.com/introstats1/table-of-contents/)</li><li>[Intro to Probability Book](http://athenasc.com/probcontents.html)</li><li>[Intro to Linear Optimisation Book](http://athenasc.com/linoptcontents.html)</li></ul> | ---
 
 
-
+---  
 
 #### In Progress  
 
