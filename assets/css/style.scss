@@ -33,6 +33,14 @@ table, th, td {
   border: 1px solid black;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+}
+
 #page {
   font-size: 1em;
   /* equivalent to 16px */
