@@ -37,10 +37,19 @@
 		</tr>
 		<tr>
 			<td>
-            Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li>(https://is.gd/QFu9Fl)</li></ul>
+            Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li><a href="https://is.gd/QFu9Fl">[link]</a></li></ul>
          </td>
 			<td>
-            <ul><li>[Good Stats Outline](https://courses.lumenlearning.com/introstats1/table-of-contents/)</li><li>[Intro to Probability Book](http://athenasc.com/probcontents.html)</li><li>[Intro to Linear Optimisation Book](http://athenasc.com/linoptcontents.html)</li></ul>
+            <ul><li>
+		    <a href="https://courses.lumenlearning.com/introstats1/table-of-contents/">Good Stats Outline</a>
+		</li>
+		<li>
+		    <a href="http://athenasc.com/probcontents.html">Intro to Probability Book</a>
+		 </li>
+		 <li>
+		    <a href="http://athenasc.com/linoptcontents.html">Intro to Linear Optimisation Book</a>
+		 </li>
+				</ul>
          </td>
 			<td> </td>
 		</tr>
