@@ -1,3 +1,4 @@
+[Study Plan](#Study-Plan)  
 [Cool Sites & Resources](#Cool-Sites-&-Resources)  
 [Math Notation Cheatsheet](#Math-Notation-Cheatsheet)  
 
