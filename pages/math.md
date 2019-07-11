@@ -32,7 +32,7 @@
             <ul><li>Discrete Random Variables</li><ul><li>Probability Distribution Functions</li><li>Expected Value</li><li>Binomial Distribution</li><li>Geometric Distribution</li><li>Poisson Distribution</li></ul><li>Continuous Random Variables</li><ul><li>Uniform Distribution</li><li>Exponential Distribution</li></ul></ul>
          </td>
 			<td>
-            Other: <ul><li>[Miltivariate calculus](https://is.gd/sXEvEI)</li></ul>
+				Other: <a href="https://is.gd/sXEvEI">Miltivariate calculus</a>
          </td>
 		</tr>
 		<tr>
