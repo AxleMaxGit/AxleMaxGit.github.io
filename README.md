@@ -10,7 +10,7 @@
 </p>  
 
 <p align="center">
-    MD: <a href="pages/math.m">Math</a> &bull;
+    MD: <a href="pages/math.md">Math</a> &bull;
     <a href="pages/pandas.md">Coding</a> &bull;
     <a href="pages/python.md">ML & AI</a> 
 </p>
