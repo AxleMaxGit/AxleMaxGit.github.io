@@ -6,13 +6,46 @@
 
 ## Study Plan
 
-
-Statistics | Probability | Calculus
---- | --- | ---
-Basics:   <ul><li>~~Mean, Median, Mode~~</li><li>standard deviations</li><li>variance</li><li>coefficient of variation</li><li>percentiles, z-score</li><li>moments: skewness, kurtosis, L-moments</li></ul>| Basics: <ul><li>Dependent vs independent</li><li>Joint Probability</li><li>Marginal Probability</li><li>Conditional Probability</li><li>Central Limit Theorem</li><li>Bayes Theorem</li></ul> | Basics: <ul><li>Differential (rate of change at a time)</li><li>Integral (time given rate of change)</li><li>Maxima / Minima</li></ul>
-Applied: <ul><li>Hypothesis Testing</li><li>Confidence Intervals</li><li>Linear Regression</li><li>Logistic Regression</li><li>F Distribution</li><li>ANOVA</li><li>Inference</li></ul>| <ul><li>Discrete Random Variables</li><ul><li>Probability Distribution Functions</li><li>Expected Value</li><li>Binomial Distribution</li><li>Geometric Distribution</li><li>Poisson Distribution</li></ul><li>Continuous Random Variables</li><ul><li>Uniform Distribution</li><li>Exponential Distribution</li></ul></ul> | Other: <ul><li>[Miltivariate calculus](https://is.gd/sXEvEI)</li></ul>
-Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li>(https://is.gd/QFu9Fl)</li></ul>  | <ul><li>[Good Stats Outline](https://courses.lumenlearning.com/introstats1/table-of-contents/)</li><li>[Intro to Probability Book](http://athenasc.com/probcontents.html)</li><li>[Intro to Linear Optimisation Book](http://athenasc.com/linoptcontents.html)</li></ul> | ---
-
+<table >
+	<tbody>
+		<tr>
+			<th>Statistics</th>
+			<th>Probability</th>
+			<th>Calculus </th>
+		</tr>
+		<tr>
+			<td>
+            <ul><li>~~Mean, Median, Mode~~</li><li>standard deviations</li><li>variance</li><li>coefficient of variation</li><li>percentiles, z-score</li><li>moments: skewness, kurtosis, L-moments</li></ul>
+         </td>
+			<td> 
+            Basics: <ul><li>Dependent vs independent</li><li>Joint Probability</li><li>Marginal Probability</li><li>Conditional Probability</li><li>Central Limit Theorem</li><li>Bayes Theorem</li></ul>
+         </td>
+			<td>
+            Basics: <ul><li>Differential (rate of change at a time)</li><li>Integral (time given rate of change)</li><li>Maxima / Minima</li></ul>
+         </td>
+		</tr>
+		<tr>
+			<td>
+            <ul><li>Hypothesis Testing</li><li>Confidence Intervals</li><li>Linear Regression</li><li>Logistic Regression</li><li>F Distribution</li><li>ANOVA</li><li>Inference</li></ul>
+         </td>
+			<td>
+            <ul><li>Discrete Random Variables</li><ul><li>Probability Distribution Functions</li><li>Expected Value</li><li>Binomial Distribution</li><li>Geometric Distribution</li><li>Poisson Distribution</li></ul><li>Continuous Random Variables</li><ul><li>Uniform Distribution</li><li>Exponential Distribution</li></ul></ul>
+         </td>
+			<td>
+            Other: <ul><li>[Miltivariate calculus](https://is.gd/sXEvEI)</li></ul>
+         </td>
+		</tr>
+		<tr>
+			<td>
+            Distributions:<ul><li>Normal/Gausian</li><li>Chi Square</li><li>(https://is.gd/QFu9Fl)</li></ul>
+         </td>
+			<td>
+            <ul><li>[Good Stats Outline](https://courses.lumenlearning.com/introstats1/table-of-contents/)</li><li>[Intro to Probability Book](http://athenasc.com/probcontents.html)</li><li>[Intro to Linear Optimisation Book](http://athenasc.com/linoptcontents.html)</li></ul>
+         </td>
+			<td> </td>
+		</tr>
+	</tbody>
+</table>
 
 ---  
 
