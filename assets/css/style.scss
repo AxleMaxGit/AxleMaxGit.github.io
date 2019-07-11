@@ -48,6 +48,21 @@ th {
   color: white;
 }
 
+ul{
+  margin-left:10px;
+}
+
+/* Second Level */
+ul ul{
+  margin-left:15px;
+}
+
+/* Third Level */
+ul ul ul{
+  margin-left:20px;
+}
+
+
 #page {
   font-size: 1em;
   /* equivalent to 16px */
