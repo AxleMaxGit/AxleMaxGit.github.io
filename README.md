@@ -42,4 +42,5 @@
 [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 
 ---
+
 ![](/img/AIML_Funny.jpeg) 
