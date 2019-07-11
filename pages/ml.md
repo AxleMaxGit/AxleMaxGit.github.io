@@ -20,7 +20,7 @@ __In Queue__
 [Harvard Intro to Data Science using R course & book](https://rafalab.github.io/dsbook/)  
 
 
----
+---  
 
 ## Natural Language Processing 
 
