@@ -22,22 +22,6 @@ Instructions for how to [set up virtual environments](pages/conda.md) using Cond
 
 --- 
 
-## NLP Stuff  
-
-__Courses__
-
-[NLP Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
-
-__References__  
-
-[Linguistic glossary](https://www.uni-due.de/ELE/LinguisticGlossary.html)
-
-__Libraries__
-
-[RASP NLP Library](http://users.sussex.ac.uk/~johnca/rasp/)
-
----  
-
 ## Coding Study  
 
 __Complete__
