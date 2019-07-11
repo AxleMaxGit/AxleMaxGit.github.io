@@ -4,7 +4,7 @@
 
 ---
 
-## Study Plan
+### Study Plan
 
 <table >
 	<tbody>
