@@ -18,30 +18,7 @@
 -------   
 
 
-
-Math notation is IMHO one of the biggest barriers to learning Artificial Intelligence.  
-
-These are [math notes](pages/math.md) I am making as I learn.   
-These are [Pandas notes](pages/pandas.md) I am making as I learn.   
-These are [Python notes](pages/python.md) I am making as I learn.  
 Instructions for how to [set up virtual environments](pages/conda.md) using Conda
-
----
-
-__Complete__
-
-[Probability Course on Coursera by Uni Zurich](https://www.coursera.org/learn/introductiontoprobability)  
-[Probabilistic Graphical Models on Coursera by Stanford](https://www.coursera.org/learn/probabilistic-graphical-models/lecture/xUr0h/overview-and-motivation)  
-
-__In Progress__  
-
-[Math Notation & DS Skills Course on Coursera by Duke](https://www.coursera.org/learn/datasciencemathskills/home/welcome)  
-[CNN Course on YouTube by Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)  
-
-__In Queue__  
-
-[Essence of Calculus Course on YouTube by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 
 --- 
 
