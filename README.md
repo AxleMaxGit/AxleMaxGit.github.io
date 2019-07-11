@@ -4,9 +4,9 @@
 -------  
 
 <p align="center">
-    <a href="pages/math.md">Math</a> &bull;
-    <a href="pages/python.md">Coding</a> &bull;
-    <a href="pages/python.md">ML & AI</a> 
+    <a href="https://axlemaxgit.github.io/pages/math.html">Math</a> &bull;
+    <a href="https://axlemaxgit.github.io/pages/python.html">Coding</a> &bull;
+    <a href="https://axlemaxgit.github.io/pages/ml.html">ML & AI</a> 
 </p>
 
 ------- 
