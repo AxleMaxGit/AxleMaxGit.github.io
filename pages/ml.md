@@ -1,4 +1,7 @@
-## AI / ML / DS Study
+[Machine Learning](#Machine-Learning)  
+[Natural Language Processing](#Natural-Language-Processing)  
+
+## Machine Learning
 
 __Complete__
 
@@ -18,3 +21,5 @@ __In Queue__
 
 
 ---
+
+## Natural Language Processing
