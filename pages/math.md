@@ -1,10 +1,10 @@
-[Study Plan](#Study-Plan)  
+[Study Plan](#Math-Study-Plan)  
 [Cool Sites & Resources](#Cool-Sites-&-Resources)  
 [Math Notation Cheatsheet](#Math-Notation-Cheatsheet)  
 
 ---
 
-### Study Plan
+### Math Study Plan
 
 <table >
 	<tbody>
