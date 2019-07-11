@@ -5,14 +5,14 @@
 
 <p align="center">
     <a href="https://axlemaxgit.github.io/pages/math.html"><img src="img/math.png" ></a> 
-    <a href="https://axlemaxgit.github.io/pages/python.html"><img src="img/code.png" ></a>
+    <a href="https://axlemaxgit.github.io/pages/code.html"><img src="img/code.png" ></a>
     <a href="https://axlemaxgit.github.io/pages/ml.html"><img src="img/ml.png" ></a>
 </p>  
 
 <p align="center">
     MD: <a href="pages/math.md">Math</a> &bull;
-    <a href="pages/pandas.md">Coding</a> &bull;
-    <a href="pages/python.md">ML & AI</a> 
+    <a href="pages/code.md">Coding</a> &bull;
+    <a href="pages/ml.md">ML & AI</a> 
 </p>
 
 -------   
