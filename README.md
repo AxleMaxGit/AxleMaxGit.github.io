@@ -17,26 +17,6 @@
 
 -------   
 
-
-Instructions for how to [set up virtual environments](pages/conda.md) using Conda
-
---- 
-
-## Coding Study  
-
-__Complete__
-
-[Matlab Course on Coursera by Vanderbilt University](https://www.coursera.org/learn/matlab/home/welcome) 
-
-__In Progress__  
-
-[Intermediate Python - Django - Flask Projects](https://www.udemy.com/projects-in-python-for-intermediate-build-python-projects/learn/v4/overview)
-
-__In Queue__  
- 
-[R for Data Science - Online HTML Version](http://r4ds.had.co.nz/)
-
----
 ## Cool Sites & Resources
 
 [JSON Viewer](http://jsonviewer.stack.hu/)  
