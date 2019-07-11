@@ -36,7 +36,7 @@ N/A
 
 ### Cool Sites & Resources
 
-[Math is fun](https://www.mathsisfun.com
+[Math is fun](https://www.mathsisfun.com)
 
 [Visual matrix multiplication ](http://matrixmultiplication.xyz/)  
 
