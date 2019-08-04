@@ -2,7 +2,7 @@
 
 #### Conda
 
-Instructions for how to [set up virtual environments](pages/conda.md) using Conda
+Instructions for how to [set up virtual environments](conda.md) using Conda
 
 --- 
 ### Code  
