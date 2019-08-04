@@ -11,9 +11,9 @@
 </p>  
 
 <p align="center">
-    <a href="pages/math.html">Math</a> &bull;
-    <a href="pages/code.html">Coding</a> &bull;
-    <a href="pages/ml.html">ML & AI</a> 
+    <a href="pages/math.md">Math</a> &bull;
+    <a href="pages/code.md">Coding</a> &bull;
+    <a href="pages/ml.md">ML & AI</a> 
 </p>
 
 -------   
